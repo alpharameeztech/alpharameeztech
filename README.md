@@ -20,9 +20,9 @@ Who am I? I am Full Stack GIANT Developer!Period.
 
 
 **What I do in my free time**
-- 😄 I always try to learn something new
-- 😄 Try new technology
-- 😄 Read Books
+- 🔭 I always try to learn something new
+- 🔭 Try new technology
+- 🔭 Read Books
 
 **Find me around the web **
 - https://laracasts.com/@rameezisrar
