@@ -20,8 +20,8 @@ Who am I? I am Full Stack GIANT Developer!Period.
 
 
 **What I do in my free time**
-- 🔭 I always try to learn something new
-- 🔭 Try new technology
+- 🔭 I believe in growing through learning 
+- 🔭 Tech-hungry! Equip myself with new tools and technologies
 - 🔭 Read Books
 
 **Find me around the web **
