@@ -2,14 +2,14 @@
 
 
 
-Currently, I live in Pakistan and work at CMPAK(Zong) as Sr.Executive IT-Sofrware Engineering.
+Currently, I live in Pakistan and work at CMPAK(Zong) as Sr.Executive IT-Sofrware Engineer.
 
 Who am I? I am Full Stack GIANT Developer!Period.
 
 
 **Achievements:**
 
-- 🔭 I am currently working at CMPAK as Full Stack Dev
+- 🔭 I am currently working at CMPAK as  Sr.Executive IT-Sofrware Engineer.
 - 🌱 I have worked for 'Impeccable Software' on the Stock Analyzer Web Application(https://app.theimpeccablestocksoftware.com/login) as Full Stack Developer.
 - 👯 I have worked with GREL(https://grel.org/) on their SaaS application as Full Stack Developer.
 - 🤔 I have worked with ABUDO(https://abudo.com/) on their SaaS application as Backend Developer.
