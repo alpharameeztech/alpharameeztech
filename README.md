@@ -1,10 +1,10 @@
 ### Hi, I'm Rameez Israr 👋
 
-
-
-Currently, I live in Pakistan and work at CMPAK(Zong) as Sr.Executive IT-Sofrware Engineer.
-
 Who am I? I am Full Stack GIANT Developer!Period.
+
+Currently, I am working at GovAssist and providing my IT services as Sr.Full Stack Engineer with my full capacity.
+
+I have worked at CMPAK(Zong) as Sr.Executive IT-Sofrware Engineer.
 
 
 **Achievements:**
