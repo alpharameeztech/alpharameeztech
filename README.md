@@ -1,3 +1,6 @@
+
+<img width="1000" height="200" alt="header_1" src="https://github.com/user-attachments/assets/4a718276-a29d-4347-8ae8-f01fed0b8459" />
+
 ### Hi, I'm Rameez Israr 👋
 
 Who am I? I am a Full Stack GIANT Developer! Period.
