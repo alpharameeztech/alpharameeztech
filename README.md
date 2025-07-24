@@ -1,7 +1,7 @@
 <img width="1000" height="200" alt="GitHub Profile Banner" src="https://github.com/user-attachments/assets/4a718276-a29d-4347-8ae8-f01fed0b8459" />
 
 # 👋 Hi, I'm Rameez Israr  
-**Senior Full Stack Engineer** | PHP · Laravel · Node · Vue · React · React Native · NextJs · Docker · AWS · SaaS · AI 
+**Senior Full Stack Engineer** | Go · PHP · Laravel · Node · Vue · React · React Native · NextJs · Docker · AWS · SaaS · AI 
 
 ---
 
